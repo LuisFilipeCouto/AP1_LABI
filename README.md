@@ -5,7 +5,7 @@ A +4000 word report on the History of Computing, from ancient to modern times, t
 The usage of Git to manage the project was also required.
 
 ### Detailed description/usage 
-Read the project report -> [**TrabalhoAP1.pdf**](TrabalhoAP2.pdf).
+Read the project report -> [**TrabalhoAP1.pdf**](TrabalhoAP1.pdf).
 
 ### Programming Languages 
 `TeX`
