@@ -3,7 +3,7 @@
 ### About the project 
 A +4000 word report on the History of Computing, from ancient to modern times, that makes full use of the most important LaTeX functionalities.
 
-The usage of Git to manage the project was also required.
+Git was used to manage the project.
 
 ### Detailed description/usage 
 Read the project report -> [**TrabalhoAP1.pdf**](TrabalhoAP1.pdf).
