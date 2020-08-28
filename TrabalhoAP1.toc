@@ -1,0 +1,186 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{i}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{i}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{v}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{v}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{v}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{v}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Estrutura do trabalho}{v}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{v}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Metodologia}{vi}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Trabalho de Pesquisa}{vi}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vi}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Organiza\IeC {\c c}\IeC {\~a}o da informa\IeC {\c c}\IeC {\~a}o individual}{vi}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vi}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Produ\IeC {\c c}\IeC {\~a}o do trabalho final}{vii}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vii}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Mecanismos de computa\IeC {\c c}\IeC {\~a}o}{viii}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Pavimentar o caminho}{viii}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{viii}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Abacus}{viii}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{viii}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{ix}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}La Pascaline e Stepped Reckoner}{ix}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{ix}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{ix}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{ix}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Primeiro Computador Mec\IeC {\^a}nico Program\IeC {\'a}val}{x}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{x}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{x}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Primeira Gera\IeC {\c c}\IeC {\~a}o de Computadores (1937-1956)}{xii}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Caracter\IeC {\'\i }sticas do \textit {hardware} e \textit {software}}{xii}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xii}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xii}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}V\IeC {\'a}lvulas Termi\IeC {\^o}nicas}{xiii}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiii}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiii}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Mem\IeC {\'o}ria de Tambor}{xiii}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiii}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}C\IeC {\'o}digo m\IeC {\'a}quina}{xiv}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiv}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Primeiro Computador Mec\IeC {\^a}nico Program\IeC {\'a}vel em Bin\IeC {\'a}rio}{xiv}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiv}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Primeiro Computador Digital}{xiv}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiv}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Resumo da 1\IeC {\textordmasculine } Gera\IeC {\c c}\IeC {\~a}o}{xv}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Segunda Gera\IeC {\c c}\IeC {\~a}o de Computadores (1956-1965)}{xvi}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Caracter\IeC {\'\i }sticas do \textit {hardware} e \textit {software} }{xvi}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xvi}{section*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xvi}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Trans\IeC {\'\i }stor}{xvii}{subsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xvii}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Mem\IeC {\'o}ria de N\IeC {\'u}cleos Magn\IeC {\'e}ticos}{xvii}{subsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Resumo da 2\IeC {\textordmasculine } Gera\IeC {\c c}\IeC {\~a}o}{xviii}{subsection.5.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Terceira Gera\IeC {\c c}\IeC {\~a}o dos Computadores (1965 - 1971)}{xix}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xix}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Circuitos Integrados}{xix}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xix}{section*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xix}{section*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Novas Linguagens de Programa\IeC {\c c}\IeC {\~a}o}{xx}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Lei de Moore:}{xx}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Resumo da 3\IeC {\textordmasculine } Gera\IeC {\c c}\IeC {\~a}o }{xxi}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Curiosidade:}{xxi}{section.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxi}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Quarta Gera\IeC {\c c}\IeC {\~a}o dos Computadores (1971 - 1981)}{xxii}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxii}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxii}{section*.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}A Internet}{xxiii}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxiii}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxiii}{section*.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxiv}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxiv}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Continua\IeC {\c c}\IeC {\~a}o da Inova\IeC {\c c}\IeC {\~a}o}{xxiv}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxiv}{section*.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxv}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Resumo da 4\IeC {\textordmasculine } Gera\IeC {\c c}\IeC {\~a}o}{xxvi}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Quinta Gera\IeC {\c c}\IeC {\~a}o dos Computadores (1981 - Actualidade)}{xxvii}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxvii}{section*.61}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxvii}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxviii}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Intelig\IeC {\^e}ncia Artificial:}{xxviii}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxviii}{section*.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxix}{section*.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxix}{section*.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Resumo da 5\IeC {\textordmasculine } Gera\IeC {\c c}\IeC {\~a}o :}{xxix}{section.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Conclus\IeC {\~a}o:}{xxx}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxx}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Contribui\IeC {\c c}\IeC {\~a}o dos autores}{xxxi}{section.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxxi}{section*.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxxi}{section*.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xxxi}{section*.71}
