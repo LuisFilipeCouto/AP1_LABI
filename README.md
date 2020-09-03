@@ -8,7 +8,7 @@ Git was used to manage the project.
 ### Detailed description/usage 
 Read the project report -> [**TrabalhoAP1.pdf**](TrabalhoAP1.pdf).
 
-### Programming Languages 
+### Programming/Scripting/Markup Languages 
 `TeX`
 
 
